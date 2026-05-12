@@ -16,3 +16,6 @@ C++
 <img width="212" height="238" alt="image" src="https://github.com/user-attachments/assets/a9a55de9-7a2b-43d0-bdd2-db766c9e8016" />
 Python
 <img width="225" height="225" alt="image" src="https://github.com/user-attachments/assets/8d50774e-7e9d-4608-9cfc-d702b82b238e" />
+
+
+https://www.linkedin.com/in/felipe-roosevelt-275bb9403/
